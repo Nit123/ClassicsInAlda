@@ -1,0 +1,12 @@
+(tempo! 120)
+(key-sig! [:e :major])
+
+mordent = b8~>c32~<b~>c~<b #b8>c32~b~c~b b8~>c32~b~c~b b8~>c32~b~c~b
+
+violin "solo": o5 e8 | g~g g~f16~e b4. b16~a | g8~g g~f16~e b4. b16~a | g8~a16~b a8~g f~d~<b~>e (vol 80)
+solo: g~g g~f16~e b4. b16~a | g8~g g~f16~e b4. b16~a | g8~a16~b a8~g f4 r8 (vol 100) e8
+solo: b~a16~g a8~b >c <b4 e8 | b~a16~g a8~b >c <b4 e8 | >c <b4 a8 g~f16~e f32~g~f~g~f~g~f~g | e4 r8 (vol 80) e8 b~a16~g a8~b |
+solo: >c <b4 e8 b~a16~g a8~b | >c <b4 e8 >c <b4 a8 | g~f16~e f32~g~f~g~f~g~f~g b8~>c32~b~c~b b8~>c32~b~c~b | 
+solo: mordent * 4 | o5 (quant 50) b8~b~b~b b~b~b~b | b~b~b~b b~b b~>c16~d |  (quant 100) e16~d~c~<b a~g~f~e r2 | r4 |
+solo: r4 r8 (quant 50) >e8~e~e~e~e~e | (quant 100) <f32~g~f~g~f~g~f~g~f~g~f~g (quant 50) >e8~e~e~e~e~e |
+solo: (quant 100) <f32~g~f~g~f~g~f~g~f~g~f~g r4 b4~b16~>e~<b~>c | <b4~b16~>e~<b~>c b16~>e~<b~>c <b16~>e~<b~>c |
