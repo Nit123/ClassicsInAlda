@@ -6,7 +6,20 @@ mordent = b8~>c32~<b~>c~<b #b8>c32~b~c~b b8~>c32~b~c~b b8~>c32~b~c~b
 violin "solo": o5 e8 | g~g g~f16~e b4. b16~a | g8~g g~f16~e b4. b16~a | g8~a16~b a8~g f~d~<b~>e (vol 80)
 solo: g~g g~f16~e b4. b16~a | g8~g g~f16~e b4. b16~a | g8~a16~b a8~g f4 r8 (vol 100) e8
 solo: b~a16~g a8~b >c <b4 e8 | b~a16~g a8~b >c <b4 e8 | >c <b4 a8 g~f16~e f32~g~f~g~f~g~f~g | e4 r8 (vol 80) e8 b~a16~g a8~b |
-solo: >c <b4 e8 b~a16~g a8~b | >c <b4 e8 >c <b4 a8 | g~f16~e f32~g~f~g~f~g~f~g b8~>c32~b~c~b b8~>c32~b~c~b | 
+solo: >c <b4 e8 b~a16~g a8~b | >c <b4 e8 >c <b4 a8 | g~f16~e f32~g~f~g~f~g~f~g b8~>c32~<b~>c~<b b8~>c32~<b~>c~<b | 
 solo: mordent * 4 | o5 (quant 50) b8~b~b~b b~b~b~b | b~b~b~b b~b b~>c16~d |  (quant 100) e16~d~c~<b a~g~f~e r2 | r4 |
 solo: r4 r8 (quant 50) >e8~e~e~e~e~e | (quant 100) <f32~g~f~g~f~g~f~g~f~g~f~g (quant 50) >e8~e~e~e~e~e |
-solo: (quant 100) <f32~g~f~g~f~g~f~g~f~g~f~g r4 b4~b16~>e~<b~>c | <b4~b16~>e~<b~>c b16~>e~<b~>c <b16~>e~<b~>c |
+solo: (quant 100) <f32~g~f~g~f~g~f~g~f~g~f~g r4 b4~b16~>e~<b~>c | <b4~b16~>e~<b~>c <b16~>e~<b~>c <b16~>e~<b~>c |
+solo: <b16~>e~<b~>c <b16~>e~<b~>c <b8~e g32~a~g~a~g~a~g~a | r4 g32~a~g~a~g~a~g~a r4 g32~a~g~a~g~a~g~a |
+solo: r4 g32~a~g~a~g~a~g~a (quant 50) >e4~e  (quant 100) e32~f~e~f | (quant 50) >e4~e | r2 r4 r8 (quant 100)  o5 e8 |
+solo: b8~a16~g a8~b >c8 <b4 e8 | b8~a16~g a8~b >c8 <b4 e8 | >c <b4 a8 g~f16~e f32~g~f~g~f~g~f~g~f~g~f~g |
+solo: (vol 80) e8~<g16~a b~a~b~a g~a~g~a b~a~b~a | g~a~g~a b~a~b~a g~a~g~a b~>c~<b~>c
+solo: d~e~d~e f~e~f~e d~e~d~e f~e~f~e | d~e~d~e f~g~f~g a~g~a~g f~a~g~f | g8~f16~e d~c~<b~a g~a~g~a b~a~b~a |
+solo: g~a~g~a b~a~b~a g~a~g~a b~a~b~a | g4 r8 >g8 a2 | g2 f2 |
+solo: g a | g f4 r8 <b8 >f8~e16~d e8~f g f4 <b8 | >f8~e16~d e8~f g f4 <b8 | >g8 f4 e8 d~c16~<b >c32~d~c~d~c~d~c~d | 
+solo: <b16~<b32~b~b~b32~b~b b~b~b~b b32~b~b~b b~b~b~b b32~b~b~b b~b~b~b b32~b~b~b |
+solo: (quant 100) >b32~>c~d~e~f32~g~a~b r8 <b32~>c~d~e~f32~g~a~b r8 |
+solo: <<b32~b32~b32~b b32~b32~b32~b32 b32~b32~b32~b b32~b32~b32~b32 g~g~g~g g32~g~g~g g~g~g~g g32~g~g~g |
+solo: >>b16~g~b >e16~<b~>e <b16~g~b >e16~<b~>e <b16~g~b >e16~<b~>e <b16~g~b >e16~<b~>e
+solo: d4 r
+
